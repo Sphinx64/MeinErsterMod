@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.scaffoldit:devtools:0.2.14" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="dev.scaffoldit" artifactId="devtools" version="0.2.14" baseVersion="0.2.14" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.scaffoldit/devtools/0.2.14/4f3236e9371df4ed354dd684f360c92ad8efadfa/devtools-0.2.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.scaffoldit/devtools/0.2.14/d717ecf090cf777e791167edab3b42289f47f332/devtools-0.2.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

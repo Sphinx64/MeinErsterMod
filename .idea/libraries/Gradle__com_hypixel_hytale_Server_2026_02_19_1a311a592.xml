@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hypixel.hytale:Server:2026.02.19-1a311a592" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.hypixel.hytale" artifactId="Server" version="2026.02.19-1a311a592" baseVersion="2026.02.19-1a311a592" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hypixel.hytale/Server/2026.02.19-1a311a592/aca76070ddfbddc54b3b27641acf3b65f366d19/Server-2026.02.19-1a311a592.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
